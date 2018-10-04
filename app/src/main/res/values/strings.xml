@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratory4</string>
+    <string name="title">AMANPULO</string>
+    <string name="location">Location: Palawan, Philippines</string>
+    <string name="distance">Distance from UST: 798.7 km</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
